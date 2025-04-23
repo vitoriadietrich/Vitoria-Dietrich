@@ -1,1 +1,1 @@
-# Vitoria-Dietrich
+# Vitoria Dietrich
