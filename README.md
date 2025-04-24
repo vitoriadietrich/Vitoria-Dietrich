@@ -1,4 +1,4 @@
-<h1 align="center">💻 Vitória Dietrich</h1>
+<h1 align="center">💻 Vitória de Jesus Dietrich</h1>
 <p align="center">
   <strong>Desenvolvedora Mobile e Web | Estudante de Engenharia da Computação | Técnica em Informática | Apaixonada por Tecnologia</strong>
 </p>
