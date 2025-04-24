@@ -58,4 +58,4 @@ Sou uma desenvolvedora mobile/web e técnica em informática que ama tecnologia 
 
 ---
 
-<p align="center">Feito com 💜 por Vitória Dietrich</p>
+<p align="center">Feito com 💜 por Vitória de Jesus Dietrich</p>
